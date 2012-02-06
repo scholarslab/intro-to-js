@@ -2,6 +2,7 @@
     "name": "My Preso",
     "sections": [
         {"section":"js"},
-        {"section":"jquery"}
+        {"section":"jquery"},
+        {"section":"cs"}
     ]
 }
