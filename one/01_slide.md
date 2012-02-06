@@ -1,9 +1,11 @@
 !SLIDE 
-# My Presentation #
+# JavaScript and CoffeeScript
 
 !SLIDE bullets incremental
-# Bullet Points #
+# Where Does JavaScript Fit In?
 
-* first point
-* second point
-* third point
+* **HTML** — What to display;
+* **CSS** — How to display it;
+* **JavaScript** — Do something with it.
+* *Well, not exactly, but you get the picture.*
+
