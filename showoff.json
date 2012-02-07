@@ -1,5 +1,5 @@
 {
-    "name": "My Preso",
+    "name": "Intro to JavaScript/CoffeeScript",
     "sections": [
         {"section":"js"},
         {"section":"jquery"},
