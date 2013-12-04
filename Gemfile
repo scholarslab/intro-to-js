@@ -1,4 +1,4 @@
-source 'http://ruibygems.org/'
+source 'https://rubygems.org/'
 
 gem 'showoff'
 
